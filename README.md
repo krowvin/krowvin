@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Charlie
 
-<!--
-**krowvin/krowvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer / licensed electrical engineer out of Tulsa, OK. 
 
-Here are some ideas to get you started:
+This is my work/personal profile. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔭 What I'm Working On
+- **Water Management Systems**: Developing tools and APIs for CWMS (Corps Water Management System) data access and visualization
+- **IoT & Hardware Projects**: Building Arduino-based solutions like spot welders and RGB LED displays
+- **Self-Hosted Solutions**: Exploring and implementing various self-hosted applications and services
+- **Web Development**: Creating React applications for data visualization and user interfaces
+
+### 🛠️ Technical Skills
+**Languages**: Python, JavaScript, and SQL are my top 3!
+
+### 🌱 Current Interests
+- Water resources management and data systems
+- Home automation and self-hosted solutions
+- Data extraction and API development
+- Hardware projects and Arduino programming
+- Advent of Code challenges
+
+### 💬 Ask Me About
+- Python development and scripting
+- Arduino and IoT projects
+- Self-hosted application setup
+- React and JavaScript development
+- TrueNAS and Self Hosting
